@@ -25,6 +25,7 @@
 ## 如何体验
 
 你可以直接访问GitHubpage进行游戏
+访问地址：https://yanqi7.github.io/KunkunBall/
 
 
 ## 常见问题
